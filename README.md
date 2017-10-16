@@ -1,5 +1,5 @@
-# Projeto-Final-de-IB2
-Programa feito para a disciplina Instrumentação Biomédica 2 UFU - 2017/1
+# Projeto-Final-de-IB1
+Programa feito para a disciplina Instrumentação Biomédica 1 UFU - 2017/1
 
 Contém os arquivos para C# e Arduino separados
 
@@ -17,4 +17,5 @@ Arduino:
 ** Protocolo de comunicação com o chip (conversor AD) ADS 8344
 ** Envio de dados pela serial
 ** Configuração do ganho do CI LTC6910 (ganho programável)
+** Configuração do trigger
 
