@@ -1,0 +1,25 @@
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\IB1\ProjetoFinalIB1\ProjetoFinalIB1\bin\Debug\ProjetoFinalIB1.exe.config
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\IB1\ProjetoFinalIB1\ProjetoFinalIB1\obj\Debug\ProjetoFinalIB1.csprojResolveAssemblyReference.cache
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\IB1\ProjetoFinalIB1\ProjetoFinalIB1\obj\Debug\ProjetoFinalIB1.Form1.resources
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\IB1\ProjetoFinalIB1\ProjetoFinalIB1\obj\Debug\ProjetoFinalIB1.Properties.Resources.resources
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\IB1\ProjetoFinalIB1\ProjetoFinalIB1\obj\Debug\ProjetoFinalIB1.csproj.GenerateResource.Cache
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\IB1\ProjetoFinalIB1\ProjetoFinalIB1\bin\Debug\ProjetoFinalIB1.exe
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\IB1\ProjetoFinalIB1\ProjetoFinalIB1\bin\Debug\ProjetoFinalIB1.pdb
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\IB1\ProjetoFinalIB1\ProjetoFinalIB1\obj\Debug\ProjetoFinalIB1.exe
+C:\Users\ADRIELLE\Google Drive\graduação\8º Período\IB1\ProjetoFinalIB1\ProjetoFinalIB1\obj\Debug\ProjetoFinalIB1.pdb
+C:\Users\Eduardo Borges\Desktop\ProjetoFinalIB1\ProjetoFinalIB1\bin\Debug\ProjetoFinalIB1.exe.config
+C:\Users\Eduardo Borges\Desktop\ProjetoFinalIB1\ProjetoFinalIB1\obj\Debug\ProjetoFinalIB1.exe
+C:\Users\Eduardo Borges\Desktop\ProjetoFinalIB1\ProjetoFinalIB1\obj\Debug\ProjetoFinalIB1.pdb
+C:\Users\Ricardo\Documents\ProjetoFinalIB1 v2.0\ProjetoFinalIB1\bin\Debug\ProjetoFinalIB1.exe.config
+C:\Users\Ricardo\Documents\ProjetoFinalIB1 v2.0\ProjetoFinalIB1\obj\Debug\ProjetoFinalIB1.exe
+C:\Users\Ricardo\Documents\ProjetoFinalIB1 v2.0\ProjetoFinalIB1\obj\Debug\ProjetoFinalIB1.pdb
+C:\Users\Ricardo\Documents\ProjetoFinalIB1 v2.0\ProjetoFinalIB1\bin\Debug\ProjetoFinalIB1.exe
+C:\Users\Ricardo\Documents\ProjetoFinalIB1 v2.0\ProjetoFinalIB1\bin\Debug\ProjetoFinalIB1.pdb
+C:\Users\Ricardo\Documents\ProjetoFinalIB1 v2.0\ProjetoFinalIB1\bin\Debug\Filtro.dll
+C:\Users\Ricardo\Documents\ProjetoFinalIB1 v2.0\ProjetoFinalIB1\bin\Debug\processamentoData.dll
+C:\Users\Ricardo\Documents\ProjetoFinalIB1 v2.0\ProjetoFinalIB1\bin\Debug\processamentoData2.dll
+C:\Users\Ricardo\Documents\ProjetoFinalIB1 v2.0\ProjetoFinalIB1\bin\Debug\processamentoData4.dll
+C:\Users\Ricardo\Documents\ProjetoFinalIB1 v2.0\ProjetoFinalIB1\obj\Debug\ProjetoFinalIB1.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\ProjetoFinalIB1 v2.0\ProjetoFinalIB1\obj\Debug\ProjetoFinalIB1.Form1.resources
+C:\Users\Ricardo\Documents\ProjetoFinalIB1 v2.0\ProjetoFinalIB1\obj\Debug\ProjetoFinalIB1.Properties.Resources.resources
+C:\Users\Ricardo\Documents\ProjetoFinalIB1 v2.0\ProjetoFinalIB1\obj\Debug\ProjetoFinalIB1.csproj.GenerateResource.Cache

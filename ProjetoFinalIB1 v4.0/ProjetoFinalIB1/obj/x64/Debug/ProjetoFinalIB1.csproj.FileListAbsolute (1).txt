@@ -1,0 +1,14 @@
+C:\Users\Eduardo Borges\Desktop\ProjetoFinalIB1\ProjetoFinalIB1\bin\x64\Debug\ProjetoFinalIB1.exe.config
+C:\Users\Eduardo Borges\Desktop\ProjetoFinalIB1\ProjetoFinalIB1\bin\x64\Debug\ProjetoFinalIB1.exe
+C:\Users\Eduardo Borges\Desktop\ProjetoFinalIB1\ProjetoFinalIB1\bin\x64\Debug\ProjetoFinalIB1.pdb
+C:\Users\Eduardo Borges\Desktop\ProjetoFinalIB1\ProjetoFinalIB1\bin\x64\Debug\Filtro.dll
+C:\Users\Eduardo Borges\Desktop\ProjetoFinalIB1\ProjetoFinalIB1\bin\x64\Debug\MWArray.dll
+C:\Users\Eduardo Borges\Desktop\ProjetoFinalIB1\ProjetoFinalIB1\bin\x64\Debug\processamentoData.dll
+C:\Users\Eduardo Borges\Desktop\ProjetoFinalIB1\ProjetoFinalIB1\bin\x64\Debug\processamentoData2.dll
+C:\Users\Eduardo Borges\Desktop\ProjetoFinalIB1\ProjetoFinalIB1\bin\x64\Debug\processamentoData4.dll
+C:\Users\Eduardo Borges\Desktop\ProjetoFinalIB1\ProjetoFinalIB1\obj\x64\Debug\ProjetoFinalIB1.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo Borges\Desktop\ProjetoFinalIB1\ProjetoFinalIB1\obj\x64\Debug\ProjetoFinalIB1.Form1.resources
+C:\Users\Eduardo Borges\Desktop\ProjetoFinalIB1\ProjetoFinalIB1\obj\x64\Debug\ProjetoFinalIB1.Properties.Resources.resources
+C:\Users\Eduardo Borges\Desktop\ProjetoFinalIB1\ProjetoFinalIB1\obj\x64\Debug\ProjetoFinalIB1.csproj.GenerateResource.Cache
+C:\Users\Eduardo Borges\Desktop\ProjetoFinalIB1\ProjetoFinalIB1\obj\x64\Debug\ProjetoFinalIB1.exe
+C:\Users\Eduardo Borges\Desktop\ProjetoFinalIB1\ProjetoFinalIB1\obj\x64\Debug\ProjetoFinalIB1.pdb
